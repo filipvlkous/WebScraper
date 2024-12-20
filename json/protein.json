@@ -1,0 +1,983 @@
+[
+  {
+    "reviews": [
+      {
+        "customerId": "57498",
+        "authorName": "POLIS",
+        "date": "06. 09. 2024, 22:19",
+        "ratingValue": "5",
+        "positive": "Prichut skvela, snad bude priste dostupna coko"
+      },
+      {
+        "customerId": "49087",
+        "authorName": "Vladimír Šimek",
+        "date": "02. 07. 2024, 11:48",
+        "ratingValue": "5",
+        "positive": ".",
+        "negative": "."
+      },
+      {
+        "customerId": "33206",
+        "authorName": "Jirka1981",
+        "date": "24. 06. 2024, 20:10",
+        "ratingValue": "5",
+        "positive": "Dobře rozpustný, vynikající příchuť...."
+      },
+      {
+        "customerId": "54046",
+        "authorName": "Eliška Poláková",
+        "date": "15. 02. 2024, 20:09",
+        "ratingValue": "5",
+        "positive": "Dobře se rozpouští, skvělá chuť 🤩"
+      },
+      {
+        "customerId": "46668",
+        "authorName": "Přemysl Janů",
+        "date": "26. 10. 2023, 12:33",
+        "ratingValue": "5",
+        "positive": "Výborná chuť. Snadno se rozpouští. Složení.",
+        "negative": "Žádné."
+      },
+      {
+        "customerId": "32060",
+        "authorName": "Rastislav Simonak",
+        "date": "11. 09. 2023, 18:51",
+        "ratingValue": "5",
+        "positive": "Jednoducho extrifit…💪pecka"
+      },
+      {
+        "customerId": "32180",
+        "authorName": "Tomáš Kostolny",
+        "date": "09. 08. 2023, 18:58",
+        "ratingValue": "5",
+        "positive": "Funguje"
+      },
+      {
+        "customerId": "30501",
+        "authorName": "Jiří Hejsek",
+        "date": "08. 07. 2023, 08:52",
+        "ratingValue": "5",
+        "positive": "Dobře se rozpouští"
+      },
+      {
+        "customerId": "50412",
+        "authorName": "Adam Večeřa",
+        "date": "27. 06. 2023, 19:01",
+        "ratingValue": "5",
+        "positive": "složení, výběr příchutí, chuť a složení",
+        "negative": "-"
+      },
+      {
+        "customerId": "49163",
+        "authorName": "Alžběta Doubková",
+        "date": "18. 06. 2023, 17:13",
+        "ratingValue": "5",
+        "positive": "-V porovnání s dalšími značkami opravdu vysoký obsah bílkovin.\n-skvělá chuť",
+        "negative": "-pro někoho možná příliš sladký"
+      },
+      {
+        "customerId": "48935",
+        "authorName": "Vilém Jurek",
+        "date": "24. 05. 2023, 16:54",
+        "ratingValue": "5",
+        "positive": "Chutove neskutecne, kupuji jen vase proteiny, je to pecka🤌",
+        "negative": "Bez zaporu"
+      },
+      {
+        "customerId": "46813",
+        "authorName": "Radek Nechuta",
+        "date": "20. 05. 2023, 09:00",
+        "ratingValue": "5",
+        "positive": "ok"
+      },
+      {
+        "customerId": "47573",
+        "authorName": "Gelwius",
+        "date": "19. 05. 2023, 11:50",
+        "ratingValue": "5",
+        "positive": "Chuť",
+        "negative": "Nic"
+      },
+      {
+        "customerId": "49015",
+        "authorName": "filip dohnalek",
+        "date": "12. 04. 2023, 16:16",
+        "ratingValue": "5",
+        "positive": "Skvělá chuť, dobrá rozpustnost"
+      },
+      {
+        "customerId": "48811",
+        "authorName": "Barča",
+        "date": "04. 03. 2023, 20:21",
+        "ratingValue": "5",
+        "positive": "Slaný karamel-výborná, výrazná chuť, nedělá hrudky. Jeden z top proteinů!",
+        "negative": "Žádné"
+      },
+      {
+        "customerId": "46537",
+        "authorName": "Pavel Šenfeld",
+        "date": "19. 01. 2023, 06:08",
+        "ratingValue": "5",
+        "positive": "Výborné a super rozpustnost"
+      }
+    ],
+    "code": "x000043",
+    "ratingValue": "5",
+    "ratingCount": "50"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "56799",
+        "authorName": "Martina Jiříkova",
+        "date": "11. 08. 2024, 15:33",
+        "ratingValue": "5",
+        "positive": "Nejlepší protein co existuje 🤤"
+      },
+      {
+        "customerId": "51767",
+        "authorName": "Lukáš Krejcar",
+        "date": "25. 03. 2024, 15:53",
+        "ratingValue": "5",
+        "positive": "Skvěle chutná, dobrá rozpustnost",
+        "negative": "Žádné"
+      },
+      {
+        "customerId": "53357",
+        "authorName": "DaTo",
+        "date": "08. 01. 2024, 08:37",
+        "ratingValue": "5",
+        "positive": "Výborný,Doporučuji",
+        "negative": "Nic"
+      },
+      {
+        "customerId": "52155",
+        "authorName": "Milan Alexander",
+        "date": "18. 10. 2023, 12:41",
+        "ratingValue": "5",
+        "positive": "Super chuť, ľahký na žalúdok,👍"
+      }
+    ],
+    "code": "x000044",
+    "ratingValue": "5",
+    "ratingCount": "6"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "52793",
+        "authorName": "Jiří Opekar",
+        "date": "27. 03. 2024, 10:22",
+        "ratingValue": "5",
+        "positive": ":)",
+        "negative": "Pro mě hůř stravitelné ale našel jsem si od Extrifit CFM ❤️"
+      },
+      {
+        "customerId": "12055",
+        "authorName": "David Skála",
+        "date": "15. 06. 2023, 11:18",
+        "ratingValue": "5",
+        "positive": "Rozpustnost \n\nChut"
+      },
+      {
+        "customerId": "46813",
+        "authorName": "Radek Nechuta",
+        "date": "20. 05. 2023, 09:00",
+        "ratingValue": "5",
+        "positive": "ok"
+      }
+    ],
+    "code": "x000087",
+    "ratingValue": "5",
+    "ratingCount": "18"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "58009",
+        "authorName": "Radek Tejkl",
+        "date": "30. 09. 2024, 15:29",
+        "ratingValue": "4",
+        "positive": "Chuť je skvělá vždy.",
+        "negative": "Bohužel mi přišel jiný produkt než jsem objednal."
+      },
+      {
+        "customerId": "48356",
+        "authorName": "Adam Smutek",
+        "date": "19. 12. 2023, 11:11",
+        "ratingValue": "5",
+        "positive": "Dobré chutě a vynikající rozpustnost"
+      },
+      {
+        "customerId": "21649",
+        "authorName": "Hana Jedličková",
+        "date": "05. 08. 2023, 21:43",
+        "ratingValue": "4",
+        "positive": "super poměr cena výkon \nrychle se rozpustí a nedělá hrudky",
+        "negative": "opravdu hodně sladké"
+      },
+      {
+        "date": "25. 02. 2023, 17:58"
+      }
+    ],
+    "code": "x000086",
+    "ratingValue": "5",
+    "ratingCount": "15"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "52155",
+        "authorName": "Milan Alexander",
+        "date": "07. 10. 2023, 15:00",
+        "ratingValue": "4",
+        "positive": "💪"
+      }
+    ],
+    "code": "x000088",
+    "ratingValue": "5",
+    "ratingCount": "3"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "49741",
+        "authorName": "Václav Vaněk",
+        "date": "25. 02. 2024, 10:40",
+        "ratingValue": "5",
+        "positive": "Dobrá chuť, rozpustnostnicn",
+        "negative": "Nic"
+      },
+      {
+        "customerId": "51415",
+        "authorName": "Eli P",
+        "date": "18. 01. 2024, 22:17",
+        "ratingValue": "5",
+        "positive": "miluju tuhle prichut, uzasne doplnuje ovesne vlocky"
+      },
+      {
+        "customerId": "50585",
+        "authorName": "Lukas",
+        "date": "07. 06. 2023, 18:36",
+        "ratingValue": "5",
+        "positive": "Skvěle rozpustný a výborná chuť"
+      },
+      {
+        "customerId": "48561",
+        "authorName": "Miroslav Kovařík",
+        "date": "26. 05. 2023, 22:09",
+        "ratingValue": "5",
+        "positive": "Chuť\nRozpustnost\nCena\nRychlost doručení"
+      },
+      {
+        "customerId": "49480",
+        "authorName": "Patrik Dotko",
+        "date": "17. 05. 2023, 10:09",
+        "ratingValue": "1",
+        "positive": "Doporučuji"
+      },
+      {
+        "customerId": "5625",
+        "authorName": "David",
+        "date": "21. 04. 2023, 08:39",
+        "ratingValue": "5",
+        "positive": "Chuť \nRozpustnost"
+      }
+    ],
+    "code": "x000068",
+    "ratingValue": "5",
+    "ratingCount": "17"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "53612",
+        "authorName": "Radek Šimák",
+        "date": "29. 09. 2024, 19:32",
+        "ratingValue": "5",
+        "positive": "Velmi lahodná chuť a snadná rozpustnost, stačí v půllitru zamíchat a je připraveno 🤟"
+      },
+      {
+        "customerId": "48356",
+        "authorName": "Adam Smutek",
+        "date": "10. 05. 2023, 07:37",
+        "ratingValue": "5",
+        "positive": "Rozpustnost, vynikající chuť"
+      }
+    ],
+    "code": "x000067",
+    "ratingValue": "5",
+    "ratingCount": "16"
+  },
+  {
+    "reviews": [],
+    "code": "x000069",
+    "ratingValue": "5",
+    "ratingCount": "2"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "54341",
+        "authorName": "Daniela Dutková",
+        "date": "27. 03. 2024, 23:18",
+        "ratingValue": "5",
+        "positive": "Velmí dobra chut - natural yogurt bych prirovnala k activia nápoji, az na to že toto nema cukr😁, cookies taky velmi dobré a sladké. Dobrá rozpustnostvíce",
+        "negative": "Zadne"
+      },
+      {
+        "customerId": "52024",
+        "authorName": "Ondřej Suchý",
+        "date": "20. 03. 2024, 09:40",
+        "ratingValue": "5",
+        "positive": "Výborná chuť, dobře rozpustný.",
+        "negative": "Nic"
+      },
+      {
+        "customerId": "51538",
+        "authorName": "Fobik",
+        "date": "10. 12. 2023, 22:18",
+        "ratingValue": "5",
+        "positive": "Moc chutný protein, je to lahoda.  Obzvlášť vanilka."
+      },
+      {
+        "customerId": "52155",
+        "authorName": "Milan Alexander",
+        "date": "07. 10. 2023, 14:59",
+        "ratingValue": "5",
+        "positive": "💪"
+      }
+    ],
+    "code": "x000070",
+    "ratingValue": "5",
+    "ratingCount": "12"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "57961",
+        "authorName": "Waltr",
+        "date": "16. 10. 2024, 14:28",
+        "ratingValue": "5",
+        "positive": "+",
+        "negative": "Žádné"
+      },
+      {
+        "customerId": "53691",
+        "authorName": "Buldok",
+        "date": "25. 09. 2024, 18:33",
+        "ratingValue": "5",
+        "positive": "Naprosto bezkonkurenční! Začal mi ho krást i můj muž, věčný kritik kulturistiky 😀",
+        "negative": "Vytváří tězkou závislost!😅"
+      },
+      {
+        "customerId": "47254",
+        "authorName": "Kateřina Vonkomerová",
+        "date": "22. 04. 2024, 07:01",
+        "ratingValue": "5",
+        "positive": "Skvělá chuť."
+      },
+      {
+        "customerId": "54573",
+        "authorName": "Tamara Páleníková",
+        "date": "14. 03. 2024, 17:46",
+        "ratingValue": "5",
+        "positive": "Vynikající"
+      },
+      {
+        "customerId": "30501",
+        "authorName": "Jiří Hejsek",
+        "date": "20. 11. 2023, 19:21",
+        "ratingValue": "5",
+        "positive": "Výborná chuť"
+      },
+      {
+        "customerId": "10666",
+        "authorName": "DavidRiha",
+        "date": "19. 09. 2023, 08:41",
+        "ratingValue": "5",
+        "positive": "Naprosto vynikající"
+      },
+      {
+        "customerId": "50412",
+        "authorName": "Adam Večeřa",
+        "date": "27. 06. 2023, 18:59",
+        "ratingValue": "5",
+        "positive": "chuť, složení",
+        "negative": "aromatizuje moč"
+      }
+    ],
+    "code": "09154",
+    "ratingValue": "5",
+    "ratingCount": "18"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "58167",
+        "authorName": "Stanislav Řehák",
+        "date": "11. 11. 2024, 23:41",
+        "ratingValue": "5",
+        "positive": "super"
+      },
+      {
+        "customerId": "51973",
+        "authorName": "Roman Chylík",
+        "date": "31. 10. 2023, 20:15",
+        "ratingValue": "5",
+        "positive": "Lahodná chuť , dobrá rozpustnost",
+        "negative": "Žádné"
+      },
+      {
+        "customerId": "52155",
+        "authorName": "Milan Alexander",
+        "date": "05. 10. 2023, 07:54",
+        "ratingValue": "5",
+        "positive": "Výborná chuť ,nemám po ňom ťažký žalúdok za mňa super"
+      }
+    ],
+    "code": "08011",
+    "ratingValue": "5",
+    "ratingCount": "5"
+  },
+  {
+    "reviews": [],
+    "code": "x001722"
+  },
+  {
+    "reviews": [],
+    "code": "x001721",
+    "ratingValue": "5",
+    "ratingCount": "1"
+  },
+  {
+    "reviews": [],
+    "code": "09153",
+    "ratingValue": "5",
+    "ratingCount": "2"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "54377",
+        "authorName": "Petr Poul",
+        "date": "15. 03. 2024, 16:00",
+        "ratingValue": "1",
+        "negative": "Divné. Ale možná to neumím připravit. Má to konzistenci vody.."
+      },
+      {
+        "customerId": "52155",
+        "authorName": "Milan Alexander",
+        "date": "07. 10. 2023, 14:54",
+        "ratingValue": "5",
+        "positive": "👌"
+      },
+      {
+        "date": "11. 03. 2023, 12:31"
+      }
+    ],
+    "code": "08012",
+    "ratingValue": "4",
+    "ratingCount": "3"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "51973",
+        "authorName": "Roman Chylík",
+        "date": "15. 06. 2024, 20:51",
+        "ratingValue": "5",
+        "positive": "Naprosto dokonalý , perfektní rozpustnost a skvělá chuť"
+      },
+      {
+        "customerId": "4026",
+        "authorName": "Ondrej Rajchart",
+        "date": "22. 07. 2023, 07:31",
+        "ratingValue": "5",
+        "positive": "Cistota= Kvalita, doporucuji"
+      },
+      {
+        "customerId": "50540",
+        "authorName": "Monika Lihotská",
+        "date": "26. 05. 2023, 07:35",
+        "ratingValue": "5",
+        "positive": "Skvělá chuť, za mě nejlepší protein který jsem kdy měla."
+      }
+    ],
+    "code": "x000072",
+    "ratingValue": "5",
+    "ratingCount": "8"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "51973",
+        "authorName": "Roman Chylík",
+        "date": "15. 06. 2024, 21:17",
+        "ratingValue": "5",
+        "positive": "Rozpustnost a chutný na 1"
+      }
+    ],
+    "code": "x000071",
+    "ratingValue": "5",
+    "ratingCount": "5"
+  },
+  {
+    "reviews": [],
+    "code": "x000090",
+    "ratingValue": "5",
+    "ratingCount": "6"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "51973",
+        "authorName": "Roman Chylík",
+        "date": "15. 06. 2024, 21:29",
+        "ratingValue": "5",
+        "positive": "Skvělá chuť a rozpustnost"
+      },
+      {
+        "customerId": "20795",
+        "authorName": "Dan Korpáš",
+        "date": "17. 01. 2024, 14:21",
+        "ratingValue": "5",
+        "positive": "Splnil očekávání"
+      },
+      {
+        "date": "15. 09. 2024, 20:26"
+      }
+    ],
+    "code": "x000091",
+    "ratingValue": "5",
+    "ratingCount": "6"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "51973",
+        "authorName": "Roman Chylík",
+        "date": "15. 06. 2024, 21:34",
+        "ratingValue": "5",
+        "positive": "Chuť"
+      },
+      {
+        "customerId": "52155",
+        "authorName": "Milan Alexander",
+        "date": "07. 10. 2023, 14:57",
+        "ratingValue": "5",
+        "positive": "💪"
+      }
+    ],
+    "code": "07053",
+    "ratingValue": "5",
+    "ratingCount": "3"
+  },
+  {
+    "reviews": [],
+    "code": "x000089",
+    "ratingValue": "5",
+    "ratingCount": "3"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "51973",
+        "authorName": "Roman Chylík",
+        "date": "15. 06. 2024, 21:34",
+        "ratingValue": "5",
+        "positive": "Rozpustnost"
+      },
+      {
+        "customerId": "52155",
+        "authorName": "Milan Alexander",
+        "date": "07. 10. 2023, 14:59",
+        "ratingValue": "4",
+        "positive": "Ľahko stráviteľný ako všetky proteíny od extrifit"
+      }
+    ],
+    "code": "07036",
+    "ratingValue": "5",
+    "ratingCount": "2"
+  },
+  {
+    "reviews": [],
+    "code": "04747",
+    "ratingValue": "5",
+    "ratingCount": "4"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "51767",
+        "authorName": "Lukáš Krejcar",
+        "date": "06. 03. 2024, 10:53",
+        "ratingValue": "5",
+        "positive": "Výborná chuť a rozpustnost, nepění",
+        "negative": "Žádné"
+      },
+      {
+        "customerId": "51689",
+        "authorName": "Ferda",
+        "date": "30. 08. 2023, 22:01",
+        "ratingValue": "5",
+        "negative": "Jen ta hořkost. Člověk si na to musí zvyknout,jinak to je fajn."
+      },
+      {
+        "customerId": "49152",
+        "authorName": "Martin Nemček",
+        "date": "26. 04. 2023, 16:28",
+        "ratingValue": "5",
+        "positive": "Hydro po tréninku bomba"
+      },
+      {
+        "date": "24. 02. 2023, 14:46"
+      },
+      {
+        "date": "04. 01. 2023, 10:15"
+      }
+    ],
+    "code": "00420",
+    "ratingValue": "5",
+    "ratingCount": "4"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "55160",
+        "authorName": "UdAnEk",
+        "date": "23. 06. 2024, 20:04",
+        "ratingValue": "5",
+        "positive": "Chuť, složení, dobře se tráví",
+        "negative": "Žádné"
+      },
+      {
+        "customerId": "51767",
+        "authorName": "Lukáš Krejcar",
+        "date": "06. 03. 2024, 10:55",
+        "ratingValue": "5",
+        "positive": "Chutná skvěle, rozpustnost, v kombinaci s jídlem top",
+        "negative": "Žádné"
+      },
+      {
+        "customerId": "23637",
+        "authorName": "Adam Nigoš",
+        "date": "11. 02. 2024, 20:54",
+        "ratingValue": "5",
+        "positive": "Chuť, složení, dobře se tráví",
+        "negative": "Nemá"
+      },
+      {
+        "customerId": "49264",
+        "authorName": "Tomáš Luka",
+        "date": "12. 03. 2023, 20:27",
+        "ratingValue": "5",
+        "positive": "výborná chuť"
+      }
+    ],
+    "code": "x000095",
+    "ratingValue": "5",
+    "ratingCount": "10"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "55160",
+        "authorName": "UdAnEk",
+        "date": "23. 06. 2024, 20:05",
+        "ratingValue": "5",
+        "positive": "Chuť, složení, dobře se tráví",
+        "negative": "Žádné"
+      },
+      {
+        "date": "22. 10. 2024, 21:12"
+      }
+    ],
+    "code": "x000094",
+    "ratingValue": "5",
+    "ratingCount": "2"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "49838",
+        "authorName": "Jan Dávid",
+        "date": "10. 04. 2023, 22:23",
+        "ratingValue": "5",
+        "positive": "Super funguje"
+      },
+      {
+        "date": "12. 06. 2023, 18:11"
+      }
+    ],
+    "code": "07052",
+    "ratingValue": "5",
+    "ratingCount": "1"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "51973",
+        "authorName": "Roman Chylík",
+        "date": "15. 06. 2024, 21:35",
+        "ratingValue": "5",
+        "positive": "Chuť"
+      }
+    ],
+    "code": "x000096",
+    "ratingValue": "5",
+    "ratingCount": "1"
+  },
+  {
+    "reviews": [],
+    "code": "x000098",
+    "ratingValue": "5",
+    "ratingCount": "1"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "51973",
+        "authorName": "Roman Chylík",
+        "date": "06. 12. 2024, 13:59",
+        "ratingValue": "5",
+        "positive": "Pomocník když nestíhám z jídlem."
+      }
+    ],
+    "code": "x000097",
+    "ratingValue": "5",
+    "ratingCount": "2"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "55242",
+        "authorName": "Jakub Jindra",
+        "date": "16. 05. 2024, 19:07",
+        "ratingValue": "5",
+        "positive": "Výborná chuť ... Luxusní vstřebatelnost 💪💪💪"
+      },
+      {
+        "customerId": "52013",
+        "authorName": "Lubomír Frýzl",
+        "date": "12. 03. 2024, 10:37",
+        "ratingValue": "5",
+        "positive": "výborné složení a chuť"
+      },
+      {
+        "customerId": "32890",
+        "authorName": "Petr Málek",
+        "date": "26. 03. 2023, 11:47",
+        "ratingValue": "5",
+        "positive": "Výborná chuť při smíchání s tvarohem."
+      },
+      {
+        "customerId": "49264",
+        "authorName": "Tomáš Luka",
+        "date": "12. 03. 2023, 20:26",
+        "ratingValue": "4",
+        "positive": "výborná chuť",
+        "negative": "trošku hůře se rozpouští"
+      }
+    ],
+    "code": "x000100",
+    "ratingValue": "4",
+    "ratingCount": "7"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "52155",
+        "authorName": "Milan Alexander",
+        "date": "07. 10. 2023, 14:56",
+        "ratingValue": "5",
+        "positive": "Dobrá chuť, dobre rozpustný a ľahko stráviteľný protein"
+      }
+    ],
+    "code": "x000101",
+    "ratingValue": "5",
+    "ratingCount": "1"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "48356",
+        "authorName": "Adam Smutek",
+        "date": "10. 05. 2023, 07:39",
+        "ratingValue": "5",
+        "positive": "Skvělá rozpustnost, velmi rychle dochází :-D"
+      },
+      {
+        "date": "02. 07. 2023, 18:51"
+      }
+    ],
+    "code": "x000117",
+    "ratingValue": "5",
+    "ratingCount": "5"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "57760",
+        "authorName": "Devotee",
+        "date": "18. 11. 2024, 09:31",
+        "ratingValue": "5",
+        "positive": "Pri rastlinnych protakoch sa treba zmierit s nie najlepsou rozpustnostou, ale mne osobne to neprekaza. Hazelnut mi chutil asi najviac, potom ...více",
+        "negative": "-"
+      }
+    ],
+    "code": "x000785",
+    "ratingValue": "5",
+    "ratingCount": "2"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "53879",
+        "authorName": "Vlastička",
+        "date": "22. 03. 2024, 12:14",
+        "ratingValue": "4",
+        "positive": "zlozenie\ncena"
+      },
+      {
+        "customerId": "12055",
+        "authorName": "David Skála",
+        "date": "14. 03. 2024, 11:35",
+        "ratingValue": "5",
+        "positive": "."
+      }
+    ],
+    "code": "x000118",
+    "ratingValue": "5",
+    "ratingCount": "2"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "57636",
+        "authorName": "Josef Volný",
+        "date": "11. 09. 2024, 22:03",
+        "ratingValue": "5",
+        "positive": "Super chuť"
+      },
+      {
+        "customerId": "51973",
+        "authorName": "Roman Chylík",
+        "date": "15. 06. 2024, 21:03",
+        "ratingValue": "5",
+        "positive": "Komplex všeho potřebného pro kvalitní regeneraci a doplnění živin po náročném tréninku"
+      },
+      {
+        "customerId": "48485",
+        "authorName": "Matyus Rolamd",
+        "date": "10. 04. 2024, 21:53",
+        "ratingValue": "5",
+        "positive": "10"
+      },
+      {
+        "customerId": "46813",
+        "authorName": "Mancini",
+        "date": "27. 08. 2023, 17:09",
+        "ratingValue": "5",
+        "positive": "ok"
+      },
+      {
+        "customerId": "1560",
+        "authorName": "roman vacek",
+        "date": "16. 08. 2023, 14:27",
+        "ratingValue": "5",
+        "positive": "Mňamka největší:-)"
+      },
+      {
+        "customerId": "32890",
+        "authorName": "Petr Málek",
+        "date": "26. 03. 2023, 11:49",
+        "ratingValue": "5",
+        "positive": "Výborná chuť pri smíchání ovocného a vanilkového Hera."
+      },
+      {
+        "date": "13. 12. 2024, 19:49"
+      },
+      {
+        "date": "10. 12. 2024, 08:41"
+      },
+      {
+        "date": "07. 12. 2024, 16:41"
+      },
+      {
+        "date": "09. 08. 2024, 14:49"
+      },
+      {
+        "date": "20. 04. 2023, 15:01"
+      }
+    ],
+    "code": "x000084",
+    "ratingValue": "5",
+    "ratingCount": "19"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "57132",
+        "authorName": "Michal Bílek",
+        "date": "08. 08. 2024, 12:42",
+        "ratingValue": "5",
+        "positive": "Super na regeneraci",
+        "negative": "Nic"
+      },
+      {
+        "customerId": "55242",
+        "authorName": "Jakub Jindra",
+        "date": "16. 05. 2024, 19:03",
+        "ratingValue": "5",
+        "positive": "Mňam mňam co si budem 🤣🤣😘💐💐💐🤤🤤🤤🤤🤤"
+      },
+      {
+        "customerId": "48007",
+        "authorName": "MILOŠ Voňka",
+        "date": "02. 06. 2023, 15:52",
+        "ratingValue": "5",
+        "positive": "S mlékem lahodná kávová dobrota po cvičení ."
+      },
+      {
+        "customerId": "32890",
+        "authorName": "Petr Málek",
+        "date": "26. 03. 2023, 11:48",
+        "ratingValue": "5",
+        "positive": "Výborná chuť pri smíchání ovocného a vanilkového Hera."
+      },
+      {
+        "date": "02. 09. 2023, 06:21"
+      }
+    ],
+    "code": "x000786",
+    "ratingValue": "5",
+    "ratingCount": "16"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "52155",
+        "authorName": "Milan Alexander",
+        "date": "23. 10. 2023, 21:10",
+        "ratingValue": "5",
+        "positive": "Lahodná chuť ,ľahko stráviteľný"
+      }
+    ],
+    "code": "x000085",
+    "ratingValue": "5",
+    "ratingCount": "2"
+  },
+  {
+    "reviews": [],
+    "code": "00422"
+  },
+  {
+    "reviews": [],
+    "code": "00402"
+  },
+  {
+    "reviews": [],
+    "code": "00445"
+  }
+]

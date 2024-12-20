@@ -1,0 +1,203 @@
+[
+  {
+    "reviews": [
+      {
+        "customerId": "19191",
+        "authorName": "Daniel Plocek",
+        "date": "01. 02. 2023, 18:23",
+        "ratingValue": "4",
+        "positive": "Funguje dobře",
+        "negative": "Chuť"
+      }
+    ],
+    "code": "x001335",
+    "ratingValue": "5",
+    "ratingCount": "2"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "30028",
+        "authorName": "Lukáš Micka",
+        "date": "01. 12. 2023, 19:12",
+        "ratingValue": "5",
+        "positive": "Výborný spalovač,skvěle nakopne a hezky rozpotí tělo + výborné příchutě.",
+        "negative": "Nic"
+      }
+    ],
+    "code": "x001337",
+    "ratingValue": "5",
+    "ratingCount": "5"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "49310",
+        "authorName": "Jaromír Ondračka",
+        "date": "28. 08. 2023, 20:36",
+        "ratingValue": "5",
+        "positive": "Má to sílu. Je to super. Pěkně ze mě teče.",
+        "negative": "Citrón mi chuťově vůbec nechutná. \nČerný rybíz je o hodně lepší."
+      },
+      {
+        "customerId": "19191",
+        "authorName": "Daniel Plocek",
+        "date": "01. 02. 2023, 18:23",
+        "ratingValue": "3",
+        "negative": "Chuť"
+      }
+    ],
+    "code": "x001330",
+    "ratingValue": "5",
+    "ratingCount": "6"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "51973",
+        "authorName": "Roman Chylík",
+        "date": "15. 06. 2024, 21:28",
+        "ratingValue": "5",
+        "positive": "Funguje spolehlivě. Nutné alespoň dvě trička😀"
+      },
+      {
+        "customerId": "52831",
+        "authorName": "Lukáš Pulchart",
+        "date": "28. 04. 2024, 12:35",
+        "ratingValue": "3",
+        "negative": "Nic"
+      }
+    ],
+    "code": "x001338",
+    "ratingValue": "5",
+    "ratingCount": "8"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "54704",
+        "authorName": "Richard Kovalčík",
+        "date": "29. 09. 2024, 11:24",
+        "ratingValue": "5",
+        "positive": "Prijemna pumpa a prokrveni \nIdealni do diety"
+      },
+      {
+        "customerId": "9941",
+        "authorName": "Norbert Greško",
+        "date": "21. 06. 2024, 21:22",
+        "ratingValue": "4",
+        "positive": "Účinnost",
+        "negative": "Chut"
+      },
+      {
+        "customerId": "51973",
+        "authorName": "Roman Chylík",
+        "date": "15. 06. 2024, 20:58",
+        "ratingValue": "5",
+        "positive": "Funguje perfektně."
+      },
+      {
+        "customerId": "54341",
+        "authorName": "Daniela Dutková",
+        "date": "27. 03. 2024, 23:19",
+        "ratingValue": "5",
+        "positive": "Krasne nakopne",
+        "negative": "Chuťově nic moc ale je to shot, takze nic hrozneho"
+      },
+      {
+        "customerId": "52155",
+        "authorName": "Milan Alexander",
+        "date": "07. 10. 2023, 14:54",
+        "ratingValue": "5",
+        "positive": "Žiadne extrémne búšenie srdca ako pri iných predtreningovkach, super napumpovanie,celkovo super . Za mňa bomba odporúčam vyskúšať"
+      },
+      {
+        "customerId": "49310",
+        "authorName": "Jaromír Ondračka",
+        "date": "28. 08. 2023, 20:40",
+        "ratingValue": "5",
+        "positive": "Pěkně mě to nakoplo a výkon byl mnohem aktivnější.",
+        "negative": "Žádné"
+      },
+      {
+        "customerId": "19191",
+        "authorName": "Daniel Plocek",
+        "date": "01. 02. 2023, 18:24",
+        "ratingValue": "3",
+        "positive": "Průměr",
+        "negative": "Chuť"
+      }
+    ],
+    "code": "x001340",
+    "ratingValue": "5",
+    "ratingCount": "14"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "53160",
+        "authorName": "Gabriela Manhartová Kristenová",
+        "date": "14. 12. 2024, 19:47",
+        "ratingValue": "5",
+        "positive": "Dobrý"
+      },
+      {
+        "customerId": "53691",
+        "authorName": "Buldok",
+        "date": "25. 09. 2024, 18:39",
+        "ratingValue": "5",
+        "positive": "Podržel mě nejprve před státnicema,aby mozek dokázal fungovat i za hranu únosnosti stresu a vypětí. Po zkoušce jsem šla sněr fitko,takže mě nakopl zpě ...více",
+        "negative": "NIC"
+      },
+      {
+        "customerId": "32180",
+        "authorName": "Tomáš Kostolny",
+        "date": "09. 08. 2023, 18:57",
+        "ratingValue": "4",
+        "positive": "Funguje"
+      },
+      {
+        "customerId": "643",
+        "authorName": "Pavel Kirchner",
+        "date": "07. 06. 2023, 20:03",
+        "ratingValue": "5",
+        "positive": "Nepociťuji nástup přípravku jako v případě Agrezz, ale je výborný na delší tréning. Pořád je chuť pokračovat. Po tréninku nejsem tak vyplivnutý. Použí ...více"
+      }
+    ],
+    "code": "x001341",
+    "ratingValue": "5",
+    "ratingCount": "14"
+  },
+  {
+    "reviews": [],
+    "code": "x001331",
+    "ratingValue": "5",
+    "ratingCount": "1"
+  },
+  {
+    "reviews": [],
+    "code": "x001336",
+    "ratingValue": "5",
+    "ratingCount": "3"
+  },
+  {
+    "reviews": [],
+    "code": "x001345",
+    "ratingValue": "5",
+    "ratingCount": "2"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "54953",
+        "authorName": "Henrieta Karásková",
+        "date": "03. 07. 2024, 14:01",
+        "ratingValue": "5",
+        "positive": "Maximální spokojenost 💪👍"
+      }
+    ],
+    "code": "x001344",
+    "ratingValue": "5",
+    "ratingCount": "3"
+  }
+]

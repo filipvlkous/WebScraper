@@ -1,0 +1,146 @@
+[
+  {
+    "reviews": [
+      {
+        "customerId": "53160",
+        "authorName": "Gabriela Manhartová Kristenová",
+        "date": "14. 12. 2024, 19:47",
+        "ratingValue": "5",
+        "positive": "Dobrý"
+      },
+      {
+        "customerId": "45388",
+        "authorName": "Dominik Benda",
+        "date": "06. 11. 2024, 12:08",
+        "ratingValue": "5",
+        "positive": "Super"
+      },
+      {
+        "customerId": "57752",
+        "authorName": "František Sysel",
+        "date": "01. 11. 2024, 12:14",
+        "ratingValue": "5",
+        "positive": "Po vyzkouseni musim prohlasit, jedine co funguje oproti nejmenovane konkurenci.\nJsem rad ze jsem vyzkousel a ochutnal."
+      },
+      {
+        "customerId": "54704",
+        "authorName": "Richard Kovalčík",
+        "date": "29. 09. 2024, 11:23",
+        "ratingValue": "5",
+        "positive": "Perfektni rozpustnost"
+      },
+      {
+        "customerId": "8852",
+        "authorName": "Stanislav Kowalczyk",
+        "date": "14. 08. 2024, 11:06",
+        "ratingValue": "5",
+        "positive": "výborná rozpustnost"
+      },
+      {
+        "customerId": "24009",
+        "authorName": "Tomáš Schránil",
+        "date": "09. 07. 2024, 21:49",
+        "ratingValue": "5",
+        "negative": "nic"
+      },
+      {
+        "customerId": "51973",
+        "authorName": "Roman Chylík",
+        "date": "15. 06. 2024, 21:15",
+        "ratingValue": "5",
+        "positive": "Osvědčená klasika a nedělá mě potíže při trávení"
+      },
+      {
+        "customerId": "46813",
+        "authorName": "Mancini",
+        "date": "15. 03. 2024, 08:32",
+        "ratingValue": "5",
+        "positive": "ok"
+      },
+      {
+        "customerId": "47142",
+        "authorName": "Vojtěch Vaculík",
+        "date": "29. 10. 2023, 12:41",
+        "ratingValue": "5",
+        "positive": "Můj oblíbený kreatin. Dávám si ho ,,nasucho\". Oproti Amixu jde krásně do krku a nemáte po něm pocit, jako kdybyste žvýkali písek."
+      },
+      {
+        "customerId": "46668",
+        "authorName": "Přemysl Janů",
+        "date": "26. 10. 2023, 12:35",
+        "ratingValue": "5",
+        "positive": "Cítím se dobře :)",
+        "negative": "Nic."
+      },
+      {
+        "customerId": "35163",
+        "authorName": "Tomáš Šesták",
+        "date": "06. 08. 2023, 11:39",
+        "ratingValue": "5",
+        "positive": "cena",
+        "negative": "nic"
+      }
+    ],
+    "code": "00431",
+    "ratingValue": "5",
+    "ratingCount": "29"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "47142",
+        "authorName": "Vojtěch Vaculík",
+        "date": "18. 11. 2024, 21:42",
+        "ratingValue": "5",
+        "positive": "Struktura je velmi jemná\nNěmecký původ je třešnička na dortu"
+      },
+      {
+        "customerId": "51973",
+        "authorName": "Roman Chylík",
+        "date": "31. 10. 2023, 20:31",
+        "ratingValue": "5",
+        "positive": "Funkční",
+        "negative": "Rychle mizí 💪🏻"
+      },
+      {
+        "customerId": "46813",
+        "authorName": "Mancini",
+        "date": "09. 09. 2023, 15:41",
+        "ratingValue": "5",
+        "positive": "super"
+      },
+      {
+        "customerId": "49317",
+        "authorName": "Lucy B.",
+        "date": "29. 06. 2023, 03:49",
+        "ratingValue": "5",
+        "positive": "Funguje na výbornou",
+        "negative": "Musí se to fakt “kopnout”, chuť nic moc, ale u tohoto produktu na chuti moc nezáleží 😃"
+      }
+    ],
+    "code": "00463",
+    "ratingValue": "5",
+    "ratingCount": "20"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "46813",
+        "authorName": "Mancini",
+        "date": "20. 05. 2023, 09:01",
+        "ratingValue": "5",
+        "positive": "ok"
+      },
+      {
+        "customerId": "49152",
+        "authorName": "Martin Nemček",
+        "date": "26. 04. 2023, 16:28",
+        "ratingValue": "5",
+        "positive": "Top klasika"
+      }
+    ],
+    "code": "07760",
+    "ratingValue": "5",
+    "ratingCount": "9"
+  }
+]

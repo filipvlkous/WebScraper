@@ -1,0 +1,519 @@
+[
+  {
+    "reviews": [
+      {
+        "customerId": "54704",
+        "authorName": "Richard Kovalčík",
+        "date": "29. 09. 2024, 11:24",
+        "ratingValue": "5",
+        "positive": "Prijemna pumpa a prokrveni \nIdealni do diety"
+      },
+      {
+        "customerId": "9941",
+        "authorName": "Norbert Greško",
+        "date": "21. 06. 2024, 21:22",
+        "ratingValue": "4",
+        "positive": "Účinnost",
+        "negative": "Chut"
+      },
+      {
+        "customerId": "51973",
+        "authorName": "Roman Chylík",
+        "date": "15. 06. 2024, 20:58",
+        "ratingValue": "5",
+        "positive": "Funguje perfektně."
+      },
+      {
+        "customerId": "54341",
+        "authorName": "Daniela Dutková",
+        "date": "27. 03. 2024, 23:19",
+        "ratingValue": "5",
+        "positive": "Krasne nakopne",
+        "negative": "Chuťově nic moc ale je to shot, takze nic hrozneho"
+      },
+      {
+        "customerId": "52155",
+        "authorName": "Milan Alexander",
+        "date": "07. 10. 2023, 14:54",
+        "ratingValue": "5",
+        "positive": "Žiadne extrémne búšenie srdca ako pri iných predtreningovkach, super napumpovanie,celkovo super . Za mňa bomba odporúčam vyskúšať"
+      },
+      {
+        "customerId": "49310",
+        "authorName": "Jaromír Ondračka",
+        "date": "28. 08. 2023, 20:40",
+        "ratingValue": "5",
+        "positive": "Pěkně mě to nakoplo a výkon byl mnohem aktivnější.",
+        "negative": "Žádné"
+      },
+      {
+        "customerId": "19191",
+        "authorName": "Daniel Plocek",
+        "date": "01. 02. 2023, 18:24",
+        "ratingValue": "3",
+        "positive": "Průměr",
+        "negative": "Chuť"
+      }
+    ],
+    "code": "x001340",
+    "ratingValue": "5",
+    "ratingCount": "14"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "53160",
+        "authorName": "Gabriela Manhartová Kristenová",
+        "date": "14. 12. 2024, 19:47",
+        "ratingValue": "5",
+        "positive": "Dobrý"
+      },
+      {
+        "customerId": "53691",
+        "authorName": "Buldok",
+        "date": "25. 09. 2024, 18:39",
+        "ratingValue": "5",
+        "positive": "Podržel mě nejprve před státnicema,aby mozek dokázal fungovat i za hranu únosnosti stresu a vypětí. Po zkoušce jsem šla sněr fitko,takže mě nakopl zpě ...více",
+        "negative": "NIC"
+      },
+      {
+        "customerId": "32180",
+        "authorName": "Tomáš Kostolny",
+        "date": "09. 08. 2023, 18:57",
+        "ratingValue": "4",
+        "positive": "Funguje"
+      },
+      {
+        "customerId": "643",
+        "authorName": "Pavel Kirchner",
+        "date": "07. 06. 2023, 20:03",
+        "ratingValue": "5",
+        "positive": "Nepociťuji nástup přípravku jako v případě Agrezz, ale je výborný na delší tréning. Pořád je chuť pokračovat. Po tréninku nejsem tak vyplivnutý. Použí ...více"
+      }
+    ],
+    "code": "x001341",
+    "ratingValue": "5",
+    "ratingCount": "14"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "53160",
+        "authorName": "Gabriela Manhartová Kristenová",
+        "date": "14. 12. 2024, 19:45",
+        "ratingValue": "5",
+        "positive": "Dobrý"
+      },
+      {
+        "customerId": "46404",
+        "authorName": "Miroslav Černáč",
+        "date": "25. 07. 2024, 10:49",
+        "ratingValue": "5",
+        "positive": "Skvělý nakopávač. Povzbudí do maxima, není cítit napětí ale příjemný stav a chuť do práce, pomeranč chuťově vynikající"
+      },
+      {
+        "customerId": "20795",
+        "authorName": "Dan Korpáš",
+        "date": "17. 01. 2024, 14:21",
+        "ratingValue": "5",
+        "positive": "Perfektní"
+      }
+    ],
+    "code": "x000046",
+    "ratingValue": "5",
+    "ratingCount": "20"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "56327",
+        "authorName": "Matěj Chybík",
+        "date": "14. 12. 2024, 18:14",
+        "ratingValue": "2",
+        "positive": "Dobrá chuť\nDobrá rozpustnost",
+        "negative": "Moc nenakopne \nMalá pumpa\nŽádná euforie"
+      },
+      {
+        "customerId": "51973",
+        "authorName": "Roman Chylík",
+        "date": "31. 10. 2023, 20:30",
+        "ratingValue": "5",
+        "positive": "Opravdu velice funkční",
+        "negative": "Žádné"
+      },
+      {
+        "customerId": "52155",
+        "authorName": "Milan Alexander",
+        "date": "23. 10. 2023, 21:11",
+        "ratingValue": "5",
+        "positive": "Super, super ,super !!! Úplná delovka rýchli nástup za mňa bomba, odporúčam vyskúšať"
+      }
+    ],
+    "code": "x000047",
+    "ratingValue": "5",
+    "ratingCount": "6"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "57132",
+        "authorName": "Michal Bílek",
+        "date": "08. 08. 2024, 12:41",
+        "ratingValue": "5",
+        "positive": "Nabudí",
+        "negative": "Nic"
+      },
+      {
+        "customerId": "54667",
+        "authorName": "Filip Brůna",
+        "date": "08. 04. 2024, 16:00",
+        "ratingValue": "3",
+        "positive": "V poho"
+      },
+      {
+        "customerId": "49152",
+        "authorName": "Martin Nemček",
+        "date": "26. 04. 2023, 16:27",
+        "ratingValue": "5",
+        "positive": "Za mě top před a při tréninku"
+      }
+    ],
+    "code": "x000083",
+    "ratingValue": "5",
+    "ratingCount": "11"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "54042",
+        "authorName": "Dominik Ferenčík",
+        "date": "11. 06. 2024, 15:06",
+        "ratingValue": "5",
+        "positive": "Nakoplo to počas tréningu",
+        "negative": "príchuť jablko mi nesadla (kyslosť a pocit umeliny)"
+      },
+      {
+        "customerId": "49718",
+        "authorName": "Frank Licko",
+        "date": "21. 04. 2024, 17:10",
+        "ratingValue": "5",
+        "positive": "Top Kvalita",
+        "negative": "Ne moc dobra chut"
+      },
+      {
+        "customerId": "27245",
+        "authorName": "Balciar Vladimír",
+        "date": "27. 02. 2024, 21:21",
+        "ratingValue": "5",
+        "positive": "Super produkty a fungují 👍👍"
+      }
+    ],
+    "code": "x000081",
+    "ratingValue": "5",
+    "ratingCount": "7"
+  },
+  {
+    "reviews": [],
+    "code": "x000082",
+    "ratingValue": "4",
+    "ratingCount": "1"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "53160",
+        "authorName": "Gabriela Manhartová Kristenová",
+        "date": "14. 12. 2024, 19:45",
+        "ratingValue": "5",
+        "positive": "Dobrý"
+      },
+      {
+        "customerId": "58038",
+        "authorName": "Miroslav Zeman",
+        "date": "08. 11. 2024, 10:35",
+        "ratingValue": "5",
+        "positive": "Nejlepší doplněk"
+      },
+      {
+        "customerId": "9941",
+        "authorName": "Norbert Greško",
+        "date": "21. 06. 2024, 21:23",
+        "ratingValue": "4",
+        "positive": "Napumpovani, chuť,",
+        "negative": "Cenná"
+      },
+      {
+        "customerId": "51973",
+        "authorName": "Roman Chylík",
+        "date": "15. 06. 2024, 21:31",
+        "ratingValue": "5",
+        "positive": "Nekompromisní a funkční."
+      },
+      {
+        "customerId": "44951",
+        "authorName": "Michal Peštuka",
+        "date": "01. 07. 2023, 20:33",
+        "ratingValue": "5",
+        "positive": "Nejlepší pumpa",
+        "negative": "Žádný"
+      }
+    ],
+    "code": "x000045",
+    "ratingValue": "5",
+    "ratingCount": "13"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "57498",
+        "authorName": "POLIS",
+        "date": "06. 09. 2024, 22:18",
+        "ratingValue": "5",
+        "positive": "Paradne funguje 👍🏻"
+      },
+      {
+        "customerId": "47992",
+        "authorName": "Marek Kofroň",
+        "date": "09. 02. 2023, 23:15",
+        "ratingValue": "5",
+        "positive": "Nabízení , větší síla ."
+      }
+    ],
+    "code": "x000073",
+    "ratingValue": "5",
+    "ratingCount": "2"
+  },
+  {
+    "reviews": [],
+    "code": "11165",
+    "ratingValue": "5",
+    "ratingCount": "2"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "53160",
+        "authorName": "Gabriela Manhartová Kristenová",
+        "date": "14. 12. 2024, 19:46",
+        "ratingValue": "5",
+        "positive": "Dobrý"
+      },
+      {
+        "customerId": "38057",
+        "authorName": "Pavel Starý",
+        "date": "21. 10. 2024, 19:01",
+        "ratingValue": "5",
+        "positive": "Mňamina co šlape"
+      },
+      {
+        "customerId": "57760",
+        "authorName": "Barbora Forgáčová",
+        "date": "06. 10. 2024, 17:41",
+        "ratingValue": "5",
+        "positive": "Zlakal ma reklamny post na FB a neklamal ;-) tento nakup rozhodne nelutujem, pomaha a urcite odporucam. :-)",
+        "negative": "Nevnimam ziadne :-)"
+      },
+      {
+        "customerId": "54704",
+        "authorName": "Richard Kovalčík",
+        "date": "29. 09. 2024, 11:23",
+        "ratingValue": "5",
+        "positive": "Dobra rozpustnost",
+        "negative": "Bez zapachu"
+      },
+      {
+        "customerId": "57080",
+        "authorName": "Michaela Matyášová",
+        "date": "22. 09. 2024, 21:36",
+        "ratingValue": "5",
+        "positive": "Funguje"
+      },
+      {
+        "customerId": "56878",
+        "authorName": "Pavel Řeháček",
+        "date": "08. 08. 2024, 22:51",
+        "ratingValue": "5",
+        "positive": "Funguje."
+      },
+      {
+        "customerId": "51973",
+        "authorName": "Roman Chylík",
+        "date": "15. 06. 2024, 21:11",
+        "ratingValue": "5",
+        "positive": "Dlouhodobě a pravidelně je u mě na pořadu dne. Skvělá chut a rozpustnost"
+      },
+      {
+        "customerId": "52793",
+        "authorName": "Jiří Opekar",
+        "date": "27. 03. 2024, 10:19",
+        "ratingValue": "5",
+        "positive": "Skvělý produkt. Využívám i na výlety.",
+        "negative": "Nic."
+      },
+      {
+        "customerId": "51767",
+        "authorName": "Lukáš Krejcar",
+        "date": "06. 03. 2024, 10:54",
+        "ratingValue": "5",
+        "positive": "výborně plní svou funkci, chuť",
+        "negative": "Žádné"
+      },
+      {
+        "customerId": "47142",
+        "authorName": "Vojtěch Vaculík",
+        "date": "29. 10. 2023, 12:43",
+        "ratingValue": "5",
+        "positive": "Skvělý suplement, skoro bez chuti."
+      },
+      {
+        "customerId": "49310",
+        "authorName": "Jaromír Ondračka",
+        "date": "28. 08. 2023, 20:44",
+        "ratingValue": "5",
+        "positive": "Super chuť i rozpustnost. Napumpování perfektní.",
+        "negative": "Žádné"
+      },
+      {
+        "customerId": "50412",
+        "authorName": "Adam Večeřa",
+        "date": "27. 06. 2023, 19:01",
+        "ratingValue": "5",
+        "positive": "příchuť, pumpa jak hrom"
+      },
+      {
+        "customerId": "49152",
+        "authorName": "Martin Nemček",
+        "date": "26. 04. 2023, 16:26",
+        "ratingValue": "5",
+        "positive": "Perfetní"
+      }
+    ],
+    "code": "x000840",
+    "ratingValue": "5",
+    "ratingCount": "30"
+  },
+  {
+    "reviews": [],
+    "code": "08381",
+    "ratingValue": "5",
+    "ratingCount": "2"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "53160",
+        "authorName": "Gabriela Manhartová Kristenová",
+        "date": "14. 12. 2024, 19:46",
+        "ratingValue": "5",
+        "positive": "Dobrý"
+      }
+    ],
+    "code": "08383",
+    "ratingValue": "5",
+    "ratingCount": "1"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "48651",
+        "authorName": "Prochy",
+        "date": "15. 05. 2023, 09:49",
+        "ratingValue": "5",
+        "positive": "Dám si před spaním a ráno nejsem unavený",
+        "negative": "Nic"
+      }
+    ],
+    "code": "08382",
+    "ratingValue": "5",
+    "ratingCount": "1"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "31347",
+        "authorName": "Zuzana Šťastná",
+        "date": "17. 06. 2024, 04:49",
+        "ratingValue": "5",
+        "positive": "Dobrá chuť"
+      }
+    ],
+    "code": "x000074",
+    "ratingValue": "5",
+    "ratingCount": "1"
+  },
+  {
+    "reviews": [],
+    "code": "x000075",
+    "ratingValue": "5",
+    "ratingCount": "4"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "53160",
+        "authorName": "Gabriela Manhartová Kristenová",
+        "date": "14. 12. 2024, 19:47",
+        "ratingValue": "5",
+        "positive": "Dobrý"
+      }
+    ],
+    "code": "09702",
+    "ratingValue": "5",
+    "ratingCount": "8"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "46813",
+        "authorName": "Mancini",
+        "date": "20. 09. 2024, 18:58",
+        "ratingValue": "5",
+        "positive": "Ok"
+      },
+      {
+        "customerId": "57132",
+        "authorName": "Michal Bílek",
+        "date": "08. 08. 2024, 12:41",
+        "ratingValue": "4",
+        "positive": "Ok",
+        "negative": "Nic"
+      },
+      {
+        "customerId": "51973",
+        "authorName": "Roman Chylík",
+        "date": "15. 06. 2024, 21:17",
+        "ratingValue": "5",
+        "positive": "Po jedné vybrané lahvičky už dobře funguje."
+      },
+      {
+        "customerId": "46121",
+        "authorName": "Radek Nemecek",
+        "date": "10. 06. 2023, 21:59",
+        "ratingValue": "5",
+        "positive": "Spokojenost"
+      }
+    ],
+    "code": "11107",
+    "ratingValue": "5",
+    "ratingCount": "19"
+  },
+  {
+    "reviews": [],
+    "code": "00454"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "54377",
+        "authorName": "Petr Poul",
+        "date": "01. 04. 2024, 01:19",
+        "ratingValue": "5",
+        "positive": "Palatinóza 🥹.",
+        "negative": "Nic."
+      }
+    ],
+    "code": "00466",
+    "ratingValue": "5",
+    "ratingCount": "1"
+  }
+]

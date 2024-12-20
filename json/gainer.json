@@ -1,0 +1,244 @@
+[
+  {
+    "reviews": [
+      {
+        "customerId": "52349",
+        "authorName": "Simon Simunek",
+        "date": "19. 11. 2023, 22:28",
+        "ratingValue": "5",
+        "positive": "Skvělá chut, mám už druhý balení a pořád chutná, což není u mě normální:)"
+      },
+      {
+        "date": "05. 09. 2023, 13:59"
+      },
+      {
+        "date": "16. 03. 2023, 20:08"
+      }
+    ],
+    "code": "x000079",
+    "ratingValue": "5",
+    "ratingCount": "5"
+  },
+  {
+    "reviews": [],
+    "code": "07035"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "57752",
+        "authorName": "František Sysel",
+        "date": "25. 11. 2024, 19:04",
+        "ratingValue": "5",
+        "positive": "👍"
+      },
+      {
+        "date": "08. 01. 2023, 13:33"
+      },
+      {
+        "date": "13. 12. 2022, 06:35"
+      }
+    ],
+    "code": "x000080",
+    "ratingValue": "5",
+    "ratingCount": "4"
+  },
+  {
+    "reviews": [],
+    "code": "06953"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "49385",
+        "authorName": "PavlínaS",
+        "date": "06. 01. 2024, 22:38",
+        "ratingValue": "5",
+        "positive": "Chutný, dobře se rozpouští, zasytí."
+      },
+      {
+        "customerId": "39534",
+        "authorName": "Michal Nováček",
+        "date": "04. 04. 2023, 13:40",
+        "ratingValue": "5",
+        "negative": "Žádné"
+      },
+      {
+        "customerId": "44067",
+        "authorName": "Pavel Hlušec",
+        "date": "20. 02. 2023, 12:02",
+        "ratingValue": "5",
+        "positive": "Snadno rozpustné"
+      },
+      {
+        "date": "30. 07. 2024, 18:26"
+      }
+    ],
+    "code": "x000057",
+    "ratingValue": "5",
+    "ratingCount": "5"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "47992",
+        "authorName": "Marek Kofroň",
+        "date": "25. 02. 2023, 08:02",
+        "ratingValue": "5",
+        "positive": "Dobra chuť"
+      }
+    ],
+    "code": "x000056",
+    "ratingValue": "5",
+    "ratingCount": "2"
+  },
+  {
+    "reviews": [],
+    "code": "07034"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "46813",
+        "authorName": "Mancini",
+        "date": "07. 01. 2024, 21:03",
+        "ratingValue": "5",
+        "positive": "super"
+      },
+      {
+        "customerId": "35163",
+        "authorName": "Tomáš Šesták",
+        "date": "06. 08. 2023, 11:38",
+        "ratingValue": "5",
+        "positive": "chut a  rozpustnost super",
+        "negative": "nic"
+      },
+      {
+        "date": "20. 02. 2024, 21:06"
+      },
+      {
+        "date": "27. 02. 2023, 12:33"
+      }
+    ],
+    "code": "x000078",
+    "ratingValue": "5",
+    "ratingCount": "9"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "51973",
+        "authorName": "Roman Chylík",
+        "date": "15. 06. 2024, 21:36",
+        "ratingValue": "5",
+        "positive": "Pro doplnění sacharidů po náročném tréninku."
+      }
+    ],
+    "code": "07051",
+    "ratingValue": "5",
+    "ratingCount": "1"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "58184",
+        "authorName": "Marián Bodnár",
+        "date": "05. 11. 2024, 18:05",
+        "ratingValue": "4",
+        "positive": "Ľahká príprava, celkom príjemná chuť ale...",
+        "negative": "chuť je dosť umelá pri niektorých druhoch. V komvinacii s čerstvým ovocím to vylepsí chuť. Dosť nevýhoda je dosť vysoká cena oproti konkurencii aj keď ...více"
+      },
+      {
+        "customerId": "57936",
+        "authorName": "Miroslav Jurka",
+        "date": "24. 09. 2024, 09:48",
+        "ratingValue": "5",
+        "positive": "Velmi rychle připraveno.\nJablko, skořice - skvělá chuť"
+      },
+      {
+        "customerId": "56243",
+        "authorName": "Petr Mareček",
+        "date": "17. 07. 2024, 08:20",
+        "ratingValue": "5",
+        "positive": "Výborná chuť a rozpustnost🔝"
+      },
+      {
+        "customerId": "51973",
+        "authorName": "Roman Chylík",
+        "date": "15. 06. 2024, 20:55",
+        "ratingValue": "5",
+        "positive": "Příchuť kokos je jedinečná! Lepší sem neměl💪🏻"
+      },
+      {
+        "customerId": "52793",
+        "authorName": "Jiří Opekar",
+        "date": "27. 03. 2024, 10:18",
+        "ratingValue": "5",
+        "positive": "V posledních odběrech mi přišlo Rice hrubší což je skvělé. Nebylo tak na drobno.",
+        "negative": "Nic."
+      },
+      {
+        "customerId": "53452",
+        "authorName": "Jan Šebesta",
+        "date": "12. 03. 2024, 18:50",
+        "ratingValue": "5",
+        "positive": "Super produkty....👍👍👍"
+      },
+      {
+        "customerId": "50433",
+        "authorName": "Stanislav Bek",
+        "date": "02. 01. 2024, 14:16",
+        "ratingValue": "5",
+        "positive": "Velice chutné a doporučené dávky zasytí"
+      },
+      {
+        "customerId": "48935",
+        "authorName": "Vilém Jurek",
+        "date": "24. 05. 2023, 16:52",
+        "ratingValue": "5",
+        "positive": "Vyborna chut",
+        "negative": "Nemam zadne minus"
+      },
+      {
+        "customerId": "49264",
+        "authorName": "Tomáš Luka",
+        "date": "12. 03. 2023, 20:28",
+        "ratingValue": "5",
+        "positive": "skvělá snídaně hlavně s mlékem"
+      }
+    ],
+    "code": "x000114",
+    "ratingValue": "5",
+    "ratingCount": "23"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "51973",
+        "authorName": "Roman Chylík",
+        "date": "15. 06. 2024, 21:01",
+        "ratingValue": "5",
+        "positive": "Vhodné balení třeba na cesty"
+      },
+      {
+        "customerId": "54341",
+        "authorName": "Daniela Dutková",
+        "date": "27. 03. 2024, 23:15",
+        "ratingValue": "5",
+        "positive": "Výborné! Sekundová příprava, zasytí a chutove fakt skvele",
+        "negative": "Zadne"
+      }
+    ],
+    "code": "x000113",
+    "ratingValue": "4",
+    "ratingCount": "8"
+  },
+  {
+    "reviews": [],
+    "code": "00430"
+  },
+  {
+    "reviews": [],
+    "code": "00364"
+  }
+]

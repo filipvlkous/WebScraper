@@ -1,0 +1,237 @@
+[
+  {
+    "reviews": [
+      {
+        "customerId": "57498",
+        "authorName": "POLIS",
+        "date": "06. 09. 2024, 22:18",
+        "ratingValue": "5",
+        "positive": "Funguje i manželka je spokojená 👍🏻"
+      },
+      {
+        "customerId": "6720",
+        "authorName": "Viktor Voříšek",
+        "date": "16. 06. 2024, 09:44",
+        "ratingValue": "5",
+        "positive": "Velmi ucinny pokud se hýbete a správně jíte",
+        "negative": "Nejsou"
+      },
+      {
+        "customerId": "52190",
+        "authorName": "Pepe33",
+        "date": "13. 06. 2024, 20:59",
+        "ratingValue": "5",
+        "positive": "Funguje jak má 😉"
+      },
+      {
+        "customerId": "55596",
+        "authorName": "Peter Horňák",
+        "date": "17. 05. 2024, 21:45",
+        "ratingValue": "5",
+        "positive": "Dobre učinkuje"
+      },
+      {
+        "customerId": "33678",
+        "authorName": "Ondřej Cihlář",
+        "date": "23. 11. 2023, 19:43",
+        "ratingValue": "5",
+        "positive": "Funguje doporučuji"
+      },
+      {
+        "customerId": "32060",
+        "authorName": "Rastislav Simonak",
+        "date": "11. 09. 2023, 18:50",
+        "ratingValue": "5",
+        "positive": "Funguje jak má a v posledni faze přípravy je super👍"
+      }
+    ],
+    "code": "09368",
+    "ratingValue": "5",
+    "ratingCount": "14"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "49310",
+        "authorName": "Jaromír Ondračka",
+        "date": "28. 08. 2023, 20:36",
+        "ratingValue": "5",
+        "positive": "Má to sílu. Je to super. Pěkně ze mě teče.",
+        "negative": "Citrón mi chuťově vůbec nechutná. \nČerný rybíz je o hodně lepší."
+      },
+      {
+        "customerId": "19191",
+        "authorName": "Daniel Plocek",
+        "date": "01. 02. 2023, 18:23",
+        "ratingValue": "3",
+        "negative": "Chuť"
+      }
+    ],
+    "code": "x001330",
+    "ratingValue": "5",
+    "ratingCount": "6"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "51973",
+        "authorName": "Roman Chylík",
+        "date": "15. 06. 2024, 21:28",
+        "ratingValue": "5",
+        "positive": "Funguje spolehlivě. Nutné alespoň dvě trička😀"
+      },
+      {
+        "customerId": "52831",
+        "authorName": "Lukáš Pulchart",
+        "date": "28. 04. 2024, 12:35",
+        "ratingValue": "3",
+        "negative": "Nic"
+      }
+    ],
+    "code": "x001338",
+    "ratingValue": "5",
+    "ratingCount": "8"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "19191",
+        "authorName": "Daniel Plocek",
+        "date": "01. 02. 2023, 18:23",
+        "ratingValue": "4",
+        "positive": "Funguje dobře",
+        "negative": "Chuť"
+      }
+    ],
+    "code": "x001335",
+    "ratingValue": "5",
+    "ratingCount": "2"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "30028",
+        "authorName": "Lukáš Micka",
+        "date": "01. 12. 2023, 19:12",
+        "ratingValue": "5",
+        "positive": "Výborný spalovač,skvěle nakopne a hezky rozpotí tělo + výborné příchutě.",
+        "negative": "Nic"
+      }
+    ],
+    "code": "x001337",
+    "ratingValue": "5",
+    "ratingCount": "5"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "54042",
+        "authorName": "Dominik Ferenčík",
+        "date": "11. 06. 2024, 15:05",
+        "ratingValue": "5",
+        "positive": "Lahodne a páčila sa mi ta konzistencia",
+        "negative": "žiadne"
+      },
+      {
+        "date": "11. 06. 2024, 10:49"
+      },
+      {
+        "date": "16. 03. 2024, 12:56"
+      },
+      {
+        "date": "16. 02. 2023, 12:58"
+      }
+    ],
+    "code": "x000115",
+    "ratingValue": "5",
+    "ratingCount": "6"
+  },
+  {
+    "reviews": [],
+    "code": "x000116"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "51973",
+        "authorName": "Roman Chylík",
+        "date": "06. 12. 2024, 13:59",
+        "ratingValue": "5",
+        "positive": "Nezvyšuje tlak a funguje."
+      }
+    ],
+    "code": "11144",
+    "ratingValue": "5",
+    "ratingCount": "9"
+  },
+  {
+    "reviews": [],
+    "code": "x000064",
+    "ratingValue": "5",
+    "ratingCount": "4"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "50585",
+        "authorName": "Lukas",
+        "date": "07. 06. 2023, 18:38",
+        "ratingValue": "5",
+        "positive": "Pěkný našlápnutí při ránu"
+      }
+    ],
+    "code": "x000065",
+    "ratingValue": "5",
+    "ratingCount": "2"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "52024",
+        "authorName": "Ondřej Suchý",
+        "date": "20. 03. 2024, 09:42",
+        "ratingValue": "4",
+        "positive": "Jednoduchý na užívaní \nMožnost vzít s sebou kamkoliv",
+        "negative": "Chuť by mohla být o něco lepší"
+      },
+      {
+        "customerId": "24498",
+        "authorName": "Anna Vopařilová",
+        "date": "02. 01. 2023, 21:47",
+        "ratingValue": "5",
+        "positive": "Super balení, že můžete vzít kamkoliv s sebou",
+        "negative": "Nic"
+      },
+      {
+        "date": "27. 01. 2024, 11:16"
+      },
+      {
+        "date": "09. 03. 2023, 06:20"
+      }
+    ],
+    "code": "x000066",
+    "ratingValue": "5",
+    "ratingCount": "3"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "57636",
+        "authorName": "Josef Volný",
+        "date": "11. 09. 2024, 22:03",
+        "ratingValue": "4",
+        "positive": "Dobrý doplněk"
+      },
+      {
+        "customerId": "51973",
+        "authorName": "Roman Chylík",
+        "date": "15. 06. 2024, 21:14",
+        "ratingValue": "5",
+        "positive": "Suprově funguje a pomáhá na redukci podkožního tuku"
+      }
+    ],
+    "code": "07930",
+    "ratingValue": "5",
+    "ratingCount": "3"
+  }
+]

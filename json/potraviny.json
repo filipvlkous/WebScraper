@@ -1,0 +1,443 @@
+[
+  {
+    "reviews": [],
+    "code": "x001722"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "54377",
+        "authorName": "Petr Poul",
+        "date": "15. 03. 2024, 16:00",
+        "ratingValue": "1",
+        "negative": "Divné. Ale možná to neumím připravit. Má to konzistenci vody.."
+      },
+      {
+        "customerId": "52155",
+        "authorName": "Milan Alexander",
+        "date": "07. 10. 2023, 14:54",
+        "ratingValue": "5",
+        "positive": "👌"
+      },
+      {
+        "date": "11. 03. 2023, 12:31"
+      }
+    ],
+    "code": "08012",
+    "ratingValue": "4",
+    "ratingCount": "3"
+  },
+  {
+    "reviews": [],
+    "code": "x001721",
+    "ratingValue": "5",
+    "ratingCount": "1"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "57961",
+        "authorName": "Waltr",
+        "date": "16. 10. 2024, 14:28",
+        "ratingValue": "5",
+        "positive": "+",
+        "negative": "Žádné"
+      },
+      {
+        "customerId": "53691",
+        "authorName": "Buldok",
+        "date": "25. 09. 2024, 18:33",
+        "ratingValue": "5",
+        "positive": "Naprosto bezkonkurenční! Začal mi ho krást i můj muž, věčný kritik kulturistiky 😀",
+        "negative": "Vytváří tězkou závislost!😅"
+      },
+      {
+        "customerId": "47254",
+        "authorName": "Kateřina Vonkomerová",
+        "date": "22. 04. 2024, 07:01",
+        "ratingValue": "5",
+        "positive": "Skvělá chuť."
+      },
+      {
+        "customerId": "54573",
+        "authorName": "Tamara Páleníková",
+        "date": "14. 03. 2024, 17:46",
+        "ratingValue": "5",
+        "positive": "Vynikající"
+      },
+      {
+        "customerId": "30501",
+        "authorName": "Jiří Hejsek",
+        "date": "20. 11. 2023, 19:21",
+        "ratingValue": "5",
+        "positive": "Výborná chuť"
+      },
+      {
+        "customerId": "10666",
+        "authorName": "DavidRiha",
+        "date": "19. 09. 2023, 08:41",
+        "ratingValue": "5",
+        "positive": "Naprosto vynikající"
+      },
+      {
+        "customerId": "50412",
+        "authorName": "Adam Večeřa",
+        "date": "27. 06. 2023, 18:59",
+        "ratingValue": "5",
+        "positive": "chuť, složení",
+        "negative": "aromatizuje moč"
+      }
+    ],
+    "code": "09154",
+    "ratingValue": "5",
+    "ratingCount": "18"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "51973",
+        "authorName": "Roman Chylík",
+        "date": "06. 12. 2024, 13:57",
+        "ratingValue": "5",
+        "positive": "Luxusní chuť, rychlá příprava."
+      },
+      {
+        "customerId": "52155",
+        "authorName": "Milan Alexander",
+        "date": "23. 10. 2023, 21:12",
+        "ratingValue": "5",
+        "positive": "Super vec na desiatu, rýchla príprava 💪"
+      }
+    ],
+    "code": "x000062",
+    "ratingValue": "5",
+    "ratingCount": "9"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "57961",
+        "authorName": "Waltr",
+        "date": "16. 10. 2024, 14:26",
+        "ratingValue": "5",
+        "positive": "Super produkt",
+        "negative": "Žádné"
+      },
+      {
+        "customerId": "53612",
+        "authorName": "Radek Šimák",
+        "date": "27. 07. 2024, 21:36",
+        "ratingValue": "5",
+        "positive": "Výborná kaše ke snídani 👌"
+      },
+      {
+        "customerId": "30501",
+        "authorName": "Jiří Hejsek",
+        "date": "23. 07. 2024, 09:44",
+        "ratingValue": "5",
+        "positive": "Výborná rychlovka👍"
+      },
+      {
+        "customerId": "56243",
+        "authorName": "Petr Mareček",
+        "date": "23. 06. 2024, 21:47",
+        "ratingValue": "5",
+        "positive": "Vynikající snídaně, jahoda top🔝🔝🔝🔝"
+      },
+      {
+        "customerId": "52793",
+        "authorName": "Jiří Opekar",
+        "date": "27. 03. 2024, 10:20",
+        "ratingValue": "5",
+        "positive": "Skvělé makro parametry.",
+        "negative": "Hůř pro mě stravitelné. Ale 100lidí 100trávení."
+      },
+      {
+        "customerId": "49385",
+        "authorName": "PavlínaS",
+        "date": "06. 01. 2024, 22:37",
+        "ratingValue": "5",
+        "positive": "Nejlepší snídaně"
+      },
+      {
+        "customerId": "51538",
+        "authorName": "Fobik",
+        "date": "10. 12. 2023, 22:19",
+        "ratingValue": "5",
+        "positive": "Chutná a skvěle zasytí 👍"
+      },
+      {
+        "customerId": "50412",
+        "authorName": "Adam Večeřa",
+        "date": "27. 06. 2023, 19:02",
+        "ratingValue": "5",
+        "positive": "chuť, složení, jednoduchá příprava",
+        "negative": "-"
+      },
+      {
+        "customerId": "48978",
+        "authorName": "lenakolinkova",
+        "date": "05. 06. 2023, 13:13",
+        "ratingValue": "5",
+        "positive": "Moc dobré, jen čoko na mě moc sladká, ovocné příchutě nejsou tolik, ale nevadilo by mi kdyby byly míň sladké."
+      },
+      {
+        "customerId": "48007",
+        "authorName": "MILOŠ Voňka",
+        "date": "02. 06. 2023, 15:55",
+        "ratingValue": "5",
+        "positive": "Dávám si před každým ranním cvičením. Dá se dobře namíchat porce tak akorát abych neměl hlad a nebyl přecpanej."
+      },
+      {
+        "customerId": "48063",
+        "authorName": "Jakub Langhammer",
+        "date": "05. 05. 2023, 07:04",
+        "ratingValue": "5",
+        "positive": "Rychlá svačina/ snídaně",
+        "negative": "Přijde mi spíš bez chuti"
+      },
+      {
+        "customerId": "11281",
+        "authorName": "Jindřich Vaníček",
+        "date": "24. 04. 2023, 17:29",
+        "ratingValue": "5",
+        "positive": "Rychlá a snadná příprava, skvělé s sebou do práce."
+      }
+    ],
+    "code": "x000063",
+    "ratingValue": "5",
+    "ratingCount": "57"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "58184",
+        "authorName": "Marián Bodnár",
+        "date": "05. 11. 2024, 18:05",
+        "ratingValue": "4",
+        "positive": "Ľahká príprava, celkom príjemná chuť ale...",
+        "negative": "chuť je dosť umelá pri niektorých druhoch. V komvinacii s čerstvým ovocím to vylepsí chuť. Dosť nevýhoda je dosť vysoká cena oproti konkurencii aj keď ...více"
+      },
+      {
+        "customerId": "57936",
+        "authorName": "Miroslav Jurka",
+        "date": "24. 09. 2024, 09:48",
+        "ratingValue": "5",
+        "positive": "Velmi rychle připraveno.\nJablko, skořice - skvělá chuť"
+      },
+      {
+        "customerId": "56243",
+        "authorName": "Petr Mareček",
+        "date": "17. 07. 2024, 08:20",
+        "ratingValue": "5",
+        "positive": "Výborná chuť a rozpustnost🔝"
+      },
+      {
+        "customerId": "51973",
+        "authorName": "Roman Chylík",
+        "date": "15. 06. 2024, 20:55",
+        "ratingValue": "5",
+        "positive": "Příchuť kokos je jedinečná! Lepší sem neměl💪🏻"
+      },
+      {
+        "customerId": "52793",
+        "authorName": "Jiří Opekar",
+        "date": "27. 03. 2024, 10:18",
+        "ratingValue": "5",
+        "positive": "V posledních odběrech mi přišlo Rice hrubší což je skvělé. Nebylo tak na drobno.",
+        "negative": "Nic."
+      },
+      {
+        "customerId": "53452",
+        "authorName": "Jan Šebesta",
+        "date": "12. 03. 2024, 18:50",
+        "ratingValue": "5",
+        "positive": "Super produkty....👍👍👍"
+      },
+      {
+        "customerId": "50433",
+        "authorName": "Stanislav Bek",
+        "date": "02. 01. 2024, 14:16",
+        "ratingValue": "5",
+        "positive": "Velice chutné a doporučené dávky zasytí"
+      },
+      {
+        "customerId": "48935",
+        "authorName": "Vilém Jurek",
+        "date": "24. 05. 2023, 16:52",
+        "ratingValue": "5",
+        "positive": "Vyborna chut",
+        "negative": "Nemam zadne minus"
+      },
+      {
+        "customerId": "49264",
+        "authorName": "Tomáš Luka",
+        "date": "12. 03. 2023, 20:28",
+        "ratingValue": "5",
+        "positive": "skvělá snídaně hlavně s mlékem"
+      }
+    ],
+    "code": "x000114",
+    "ratingValue": "5",
+    "ratingCount": "23"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "51973",
+        "authorName": "Roman Chylík",
+        "date": "15. 06. 2024, 21:01",
+        "ratingValue": "5",
+        "positive": "Vhodné balení třeba na cesty"
+      },
+      {
+        "customerId": "54341",
+        "authorName": "Daniela Dutková",
+        "date": "27. 03. 2024, 23:15",
+        "ratingValue": "5",
+        "positive": "Výborné! Sekundová příprava, zasytí a chutove fakt skvele",
+        "negative": "Zadne"
+      }
+    ],
+    "code": "x000113",
+    "ratingValue": "4",
+    "ratingCount": "8"
+  },
+  {
+    "reviews": [],
+    "code": "x000105",
+    "ratingValue": "5",
+    "ratingCount": "1"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "51538",
+        "authorName": "Fobik",
+        "date": "29. 02. 2024, 19:54",
+        "ratingValue": "5",
+        "positive": "Skvělá a chutná snídaně"
+      },
+      {
+        "date": "09. 10. 2024, 12:54"
+      }
+    ],
+    "code": "x000106",
+    "ratingValue": "5",
+    "ratingCount": "2"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "54929",
+        "authorName": "Pavlína Šeflová",
+        "date": "25. 06. 2024, 20:15",
+        "ratingValue": "5",
+        "positive": "Rychlá mňamka \nVýborná chuť \nUjíždím na nich"
+      },
+      {
+        "customerId": "51973",
+        "authorName": "Roman Chylík",
+        "date": "15. 06. 2024, 21:20",
+        "ratingValue": "5",
+        "positive": "Chutná rychlá svačinka"
+      }
+    ],
+    "code": "x000103",
+    "ratingValue": "5",
+    "ratingCount": "3"
+  },
+  {
+    "reviews": [],
+    "code": "x001073",
+    "ratingValue": "5",
+    "ratingCount": "2"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "51973",
+        "authorName": "Roman Chylík",
+        "date": "15. 06. 2024, 21:20",
+        "ratingValue": "5",
+        "positive": "Skladné a moc chutné"
+      }
+    ],
+    "code": "x000104",
+    "ratingValue": "5",
+    "ratingCount": "2"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "49741",
+        "authorName": "Václav Vaněk",
+        "date": "25. 02. 2024, 10:54",
+        "ratingValue": "5",
+        "positive": "Chuťově zajímavé",
+        "negative": "Na mě až moc slané"
+      },
+      {
+        "customerId": "51415",
+        "authorName": "Eli P",
+        "date": "18. 01. 2024, 22:16",
+        "ratingValue": "5",
+        "positive": "chuť, složení a poměr makroživin"
+      },
+      {
+        "customerId": "48651",
+        "authorName": "Prochy",
+        "date": "15. 05. 2023, 09:48",
+        "ratingValue": "5",
+        "positive": "Nic",
+        "negative": "Nic"
+      }
+    ],
+    "code": "x001074",
+    "ratingValue": "5",
+    "ratingCount": "4"
+  },
+  {
+    "reviews": [],
+    "code": "12522"
+  },
+  {
+    "reviews": [],
+    "code": "09153",
+    "ratingValue": "5",
+    "ratingCount": "2"
+  },
+  {
+    "reviews": [
+      {
+        "customerId": "58167",
+        "authorName": "Stanislav Řehák",
+        "date": "11. 11. 2024, 23:41",
+        "ratingValue": "5",
+        "positive": "super"
+      },
+      {
+        "customerId": "51973",
+        "authorName": "Roman Chylík",
+        "date": "31. 10. 2023, 20:15",
+        "ratingValue": "5",
+        "positive": "Lahodná chuť , dobrá rozpustnost",
+        "negative": "Žádné"
+      },
+      {
+        "customerId": "52155",
+        "authorName": "Milan Alexander",
+        "date": "05. 10. 2023, 07:54",
+        "ratingValue": "5",
+        "positive": "Výborná chuť ,nemám po ňom ťažký žalúdok za mňa super"
+      }
+    ],
+    "code": "08011",
+    "ratingValue": "5",
+    "ratingCount": "5"
+  },
+  {
+    "reviews": [],
+    "code": "00422"
+  }
+]
