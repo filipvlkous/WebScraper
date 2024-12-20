@@ -155,7 +155,7 @@ const data = [];
   }
 
   try {
-    await page.goto("https://www.extrifit.cz/predtreninkove-suplementy", {
+    await page.goto("https://www.extrifit.cz/sejkry-a-lahve-extrifit", {
       waitUntil: "networkidle2",
     });
 
@@ -179,7 +179,7 @@ const data = [];
 
 // Function to save data array to a JSON file
 function saveToJsonFile() {
-  const filePath = "predtrenink.json";
+  const filePath = "shaker.json";
   fs.writeFileSync(filePath, JSON.stringify(data, null, 2), "utf-8");
   console.log(`Data saved to ${filePath}`);
 }
